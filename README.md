@@ -1,4 +1,4 @@
-# Workshop nodemailer : Express/React
+# Workshop Express/React 3/3 : ResetPassword nodemailer
 
 
 ### Install dependencies
