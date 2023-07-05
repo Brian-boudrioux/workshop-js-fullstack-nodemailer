@@ -1,5 +1,6 @@
 # Workshop Express/React 3/3 : ResetPassword nodemailer
 
+Please check the previous workshop before doing this one : https://github.com/Brian-boudrioux/workshop-js-fullstack-fileUpload 
 
 ### Install dependencies
 Install the dependencies project with the command:
