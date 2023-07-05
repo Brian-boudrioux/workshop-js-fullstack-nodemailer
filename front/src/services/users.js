@@ -13,3 +13,4 @@ const updateAvatar = (form) => {
 }
 
 export {getAllUsers, getCurrentUser, updateAvatar};
+export default { getAllUsers, getCurrentUser, updateAvatar };
